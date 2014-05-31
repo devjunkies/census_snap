@@ -1,0 +1,3 @@
+First commit file indicating the nature of the task.
+
+We have been presented with access to census data and challenged to indicate food insecurity at higher resolution than county level. (City and/or neighborhood)
